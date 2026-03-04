@@ -1,6 +1,4 @@
-# hmis-repo01
-HMIS - Primer repositorio de la asignatura
-# ¡Hola! Soy Javier Campuzano García 👋
+# ¡Hola! Soy Javier Campuzano García 👋 (*HMIS - REPO 1*)
 
 ## 🚀 Sobre mí
 ¡Bienvenido/a a mi repositorio para la asignatura de **Herramientas y Métodos de Ingeniería del Software**! Soy un apasionado de la tecnología y estudiante de Ingeniería de Software Y Tecnologías de la Información, enfocado en aprender a construir soluciones robustas, escalables y, sobre todo, eficientes.
